@@ -1,1 +1,1 @@
-# MathWiki
+# MathWiki.com
